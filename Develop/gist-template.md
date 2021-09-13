@@ -64,7 +64,7 @@ an example would be:
 ### Back-references
 Back-references are use to find previous matches and search for them again.
 ### Look-ahead and Look-behind
-
+Look-ahead and look-behind are used to do exactly what they say they are. Look-ahead is used at what is after your match, look-behind is used to look at what is before your match.
 ## Author
 
 My name is Taylor Black and I am currently taking the fullstack web devevlopment course through Case Western Reserve. After this course I plan to pursue a career in web development.
